@@ -3,8 +3,8 @@
   "publisher": "AnandaBibekRay",
   "displayName": "IntelliJ IDEA New UI Theme",
   "description": "VSCode theme emulating IntelliJ IDEA new UI theme (light)",
-  "icon": "images/icons8-intellij-idea-256.png",
-  "version": "1.0.5",
+  "icon": "images/intellij-idea-256.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -18,16 +18,26 @@
   "contributes": {
     "themes": [
       {
-        "label": "IntelliJ IDEA New UI",
+        "label": "IntelliJ IDEA New UI Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij-new-ui-dark.json"
+      },
+      {
+        "label": "IntelliJ IDEA New UI Light",
         "uiTheme": "vs",
-        "path": "./themes/intellij-new-ui-color-theme.json"
+        "path": "./themes/intellij-new-ui-light.json"
+      },
+      {
+        "label": "IntelliJ IDEA New UI Light with Light Header",
+        "uiTheme": "vs",
+        "path": "./themes/intellij-new-ui-light-with-light-header.json"
       }
     ]
   },
   "keywords": ["jetbrains","intellij","idea","light","new"],
-  "homepage": "https://github.com/anandbibek/vscode-intellij-new-ui-theme/blob/main/README.md",
+  "homepage": "https://github.com/compassak/vscode-intellij-new-ui-theme/blob/main/README.md",
   "repository": {
     "type": "github",
-    "url": "https://github.com/anandbibek/vscode-intellij-new-ui-theme.git"
+    "url": "https://github.com/compassak/vscode-intellij-new-ui-theme.git"
   }
 }
