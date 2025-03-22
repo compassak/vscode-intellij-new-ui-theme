@@ -3,3 +3,4 @@
 .gitignore
 .idea/**
 vsc-extension-quickstart.md
+src/**
