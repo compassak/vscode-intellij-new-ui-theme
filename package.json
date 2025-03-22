@@ -1,8 +1,8 @@
 {
   "name": "intellij-idea-new-ui-theme",
-  "publisher": "AnandaBibekRay",
+  "publisher": "compassak",
   "displayName": "IntelliJ IDEA New UI Theme",
-  "description": "VSCode theme emulating IntelliJ IDEA new UI theme (light)",
+  "description": "VSCode theme emulating IntelliJ IDEA new UI theme",
   "icon": "images/intellij-idea-256.png",
   "version": "1.0.0",
   "engines": {
