@@ -10,8 +10,9 @@ _Work in progress. Expect updates._
 
 ## Preview
 
-![alt](https://raw.githubusercontent.com/anandbibek/vscode-intellij-new-ui-theme/main/images/scrn1.png)
-![alt](https://raw.githubusercontent.com/anandbibek/vscode-intellij-new-ui-theme/main/images/scrn2.png)
+![alt](https://raw.githubusercontent.com/compassak/vscode-intellij-new-ui-theme/main/images/scrn1.png)
+![alt](https://raw.githubusercontent.com/compassak/vscode-intellij-new-ui-theme/main/images/scrn2.png)
+![alt](https://raw.githubusercontent.com/compassak/vscode-intellij-new-ui-theme/main/images/scrn3.png)
 
 
 ## Credits and Attributions
